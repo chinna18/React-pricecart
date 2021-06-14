@@ -1,0 +1,39 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+body {
+  background-color: lightskyblue;
+}
+
+.card-price {
+  font-size: 40px;
+}
+.month {
+  font-size: medium;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+.text {
+  margin-left: 10px;
+  height: 1em;
+}
+
+.btn-block {
+  padding: 15px;
+  width: 100%;
+  border-radius: 5rem;
+  font-weight: bold;
+}
